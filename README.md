@@ -3,7 +3,7 @@
 **This is [Arshia](https://github.com/SilentDrift)！I'm a CS Student who is fascinated by algorithms.**
 
 My fields of interests are concentrated at the intersection of two pivotal domains:
--  Multi-agent systems
+-  Game Theory & Multiagent Learning
 -  Reinforcement Learning
 
 
